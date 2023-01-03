@@ -1,0 +1,8 @@
+C:\Users\Douglas\source\repos\projeto1\Projet\bin\Debug\Projet.exe.config
+C:\Users\Douglas\source\repos\projeto1\Projet\bin\Debug\Projet.exe
+C:\Users\Douglas\source\repos\projeto1\Projet\bin\Debug\Projet.pdb
+C:\Users\Douglas\source\repos\projeto1\Projet\obj\Debug\Projet.csproj.AssemblyReference.cache
+C:\Users\Douglas\source\repos\projeto1\Projet\obj\Debug\Projet.csproj.SuggestedBindingRedirects.cache
+C:\Users\Douglas\source\repos\projeto1\Projet\obj\Debug\Projet.csproj.CoreCompileInputs.cache
+C:\Users\Douglas\source\repos\projeto1\Projet\obj\Debug\Projet.exe
+C:\Users\Douglas\source\repos\projeto1\Projet\obj\Debug\Projet.pdb
